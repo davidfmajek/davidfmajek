@@ -1,10 +1,10 @@
-### Hey there, I'm Richard 👋<br/>
+### Hey there, I'm David 👋<br/>
 
 #### 🧠 About Me
-- 🏫 CS at the University of Maryland, College Park
-- 👀 Interested in web development, machine learning, and artificial intelligence
-- 🌱 Currently learning HTML5, CSS3, and JavaScript
-- 🤖 Prior experience with Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
+- 🏫 CS at Howard Community College
+- 👀 Interested in machine learning and artificial intelligence and App Development
+- 🌱 Currently learning C++ 
+- 🤖 Prior experience with Python, Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
 - 📫 Connect with me!
 
 <a href="mailto: rmukam@terpmail.umd.edu"><img width="8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
