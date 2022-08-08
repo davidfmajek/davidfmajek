@@ -12,7 +12,7 @@
 <a href="https://discord.com/users/186862370365243392" target="_blank"><img width="9.5%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 #### Languages
-<img alt="python" src="[https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc)">
+<img alt="python" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmukam&layout=compact">
