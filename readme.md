@@ -9,7 +9,7 @@
 
 <a href="mailto: davidfmajek23@gmail.com"><img width="8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="www.linkedin.com/in/davidmajek/" target="_blank"><img width="10%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discord.com/users/186862370365243392" target="_blank"><img width="9.5%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/629397264183459850" target="_blank"><img width="9.5%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 #### Languages
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
