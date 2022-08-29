@@ -3,7 +3,7 @@
 #### 🧠 About Me
 - 🏫 CS at Howard Community College
 - 👀 Interested in machine learning and artificial intelligence and App Development
-- 🌱 Currently learning C++ 
+- 🌱 Currently learning C++
 - 🤖 Prior experience with Python, Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
 - 📫 Connect with me!
 
