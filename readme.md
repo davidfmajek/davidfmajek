@@ -1,6 +1,7 @@
 ### Hey there, I'm David 👋<br/>
 
 #### 🧠 About Me
+- 🏫 CS at Howard Community College
 - 👀 Interested in machine learning, artificial intelligence and App Development
 - 🌱 Currently learning C++
 - 🤖 Prior experience with Python, Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
