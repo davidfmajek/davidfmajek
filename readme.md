@@ -4,7 +4,7 @@
 - 🏫 CS at Howard university
 - 👀 Interested in machine learning, artificial intelligence and App Development
 - 🌱 Currently learning C++ and SQL
-- 🤖 Prior experience with Python, Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
+- 🤖 Prior experience with Python, Java
 - 📫 Connect with me!
 
 <a href="mailto: davidfmajek23@gmail.com"><img width="9.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
