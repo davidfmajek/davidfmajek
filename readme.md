@@ -1,8 +1,8 @@
 ### Hey there, I'm David 👋<br/>
 
 #### 🧠 About Me
-- 🏫 CS at Howard university
-- 👀 Interested in machine learning, artificial intelligence and App Development
+- 🏫 CS at Howard Community College
+- 👀 Interested in AI/ML, Data Science, and Backend Development
 - 🌱 Currently learning C++ and SQL
 - 🤖 Prior experience with Python, Java
 - 📫 Connect with me!
