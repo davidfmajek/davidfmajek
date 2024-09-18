@@ -1,7 +1,7 @@
 ### Hey there, I'm David 👋<br/>
 
 #### 🧠 About Me
-- 👀 Interested in AI/ML, Data Science, and Backend Development
+- 👀 Interested in AI/ML and Data Science,
 - 🌱 Currently learning C++ 
 - 🤖 Prior experience with Python, Java
 - 📫 Connect with me!
