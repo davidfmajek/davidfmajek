@@ -2,8 +2,8 @@
 
 #### 🧠 About Me
 - 👀 Interested in AI/ML and Data Science,
-- 🌱 Currently learning C++ 
-- 🤖 Prior experience with Python, Java
+- 🌱 Currently learning 
+- 🤖 Experience with Python, Java, C++, Javascript, Typescript 
 - 📫 Connect with me!
 
 <a href="mailto: davidfmajek23@gmail.com"><img width="9.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
