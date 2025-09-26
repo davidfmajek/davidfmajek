@@ -35,10 +35,11 @@
 
 #### 🚀 Featured Projects
 - 📝 **[DevPad](https://github.com/davidfmajek/Devpad)** – A developer-focused note-taking app with AI summarization  
-- 📊 **ProjectMonopoly** – A Go + Postgres project exploring SQLC, pgvector, and database-driven APIs  
-- 🤖 **Auto File Organizer Agent** – AI agent that organizes files automatically using LangChain + GPT  
+- 🤖 **[AI File Organizer](https://github.com/davidfmajek/auto-file-organizer)** – AI agent that organizes files automatically using LangChain + GPT  
+- 🌟 **[Daily Inspire](https://github.com/davidfmajek/daily-inspire)** – Flask app with PostgreSQL backend delivering daily motivational quotes   
 
 ---
 ✨ Always excited to collaborate and learn more in AI/ML, data, and software engineering!  
+
 
 
