@@ -25,7 +25,7 @@
 I'm a Computer Science student focused on **Artificial Intelligence/Machine Learning, and intelligent systems**. I enjoy building systems that combine **AI and software engineering** to solve real-world problems.
 
 - Interested in **Machine Learning Research, Applied AI, and Software Engineering**
-- Currently building projects involving **full-stack applications, machine learning systems, and intelligent software**
+- Currently building projects involving **full-stack applications and machine learning systems**
 - Continuously learning **machine learning algorithms, modern software development, and how to deeply understand research papers**
 - Computer Science student with coursework in **Machine Learning, Data Structures & Algorithms, Database Systems, Linear Algebra, and Statistics**
 - Fun fact: I'm a huge football⚽ fan and could talk about it or play it all day
@@ -92,3 +92,4 @@ I'm a Computer Science student focused on **Artificial Intelligence/Machine Lear
 ![Profile Views](https://komarev.com/ghpvc/?username=davidfmajek&color=58A6FF&style=flat-square)
 
 </div>
+
