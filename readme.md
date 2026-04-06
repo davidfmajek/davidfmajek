@@ -71,25 +71,4 @@ I'm a Computer Science student focused on **Artificial Intelligence/Machine Lear
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidfmajek)](https://github.com/davidfmajek/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfmajek&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-  *Always excited to collaborate on AI/ML and software engineering projects.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=davidfmajek&color=58A6FF&style=flat-square)
-
-</div>
 
